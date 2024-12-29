@@ -1,3 +1,5 @@
 venv*
 data
 wandb
+__pycache__
+.env/
