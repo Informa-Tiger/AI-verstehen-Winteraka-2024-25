@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:\Users\wusch\AppData\Local\Temp\ipykernel_22976\2663321464.py", line 32, in train
+    accuracy = (val_preds == y_val.float()).mean()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: mean(): could not infer output dtype. Input dtype must be either a floating point or complex dtype. Got: Bool

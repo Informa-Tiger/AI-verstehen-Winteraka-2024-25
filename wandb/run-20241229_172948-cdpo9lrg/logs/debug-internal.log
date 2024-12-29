@@ -1,0 +1,17 @@
+{"time":"2024-12-29T17:29:48.1204321+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-29T17:29:48.1209515+01:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\wusch\\working_directory\\AI-verstehen-Winteraka-2024-25\\wandb\\run-20241229_172948-cdpo9lrg\\logs\\debug-core.log"}
+{"time":"2024-12-29T17:29:48.7458948+01:00","level":"INFO","msg":"created new stream","id":"cdpo9lrg"}
+{"time":"2024-12-29T17:29:48.7458948+01:00","level":"INFO","msg":"stream: started","id":"cdpo9lrg"}
+{"time":"2024-12-29T17:29:48.7458948+01:00","level":"INFO","msg":"handler: started","stream_id":"cdpo9lrg"}
+{"time":"2024-12-29T17:29:48.7458948+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"cdpo9lrg"}
+{"time":"2024-12-29T17:29:48.7458948+01:00","level":"INFO","msg":"sender: started","stream_id":"cdpo9lrg"}
+{"time":"2024-12-29T17:29:49.2195922+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-29T17:29:49.5883464+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-29T17:29:49.7235206+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-29T17:29:50.6036117+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.101215,"progress":"677B/677B"},{"desc":"uploading output.log","runtime_seconds":0.101215,"progress":"353B/353B"}],"total_operations":2}}
+{"time":"2024-12-29T17:29:50.7501925+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-29T17:29:52.0819976+01:00","level":"INFO","msg":"stream: closing","id":"cdpo9lrg"}
+{"time":"2024-12-29T17:29:52.0819976+01:00","level":"INFO","msg":"handler: closed","stream_id":"cdpo9lrg"}
+{"time":"2024-12-29T17:29:52.0819976+01:00","level":"INFO","msg":"sender: closed","stream_id":"cdpo9lrg"}
+{"time":"2024-12-29T17:29:52.0819976+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cdpo9lrg"}
+{"time":"2024-12-29T17:29:52.0819976+01:00","level":"INFO","msg":"stream: closed","id":"cdpo9lrg"}
