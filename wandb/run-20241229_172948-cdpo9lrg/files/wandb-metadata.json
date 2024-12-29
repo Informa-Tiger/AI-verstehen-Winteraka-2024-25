@@ -1,0 +1,14 @@
+{
+  "os": "Windows-10-10.0.22631-SP0",
+  "python": "CPython 3.11.9",
+  "startedAt": "2024-12-29T16:29:48.118318Z",
+  "program": "Untitled-1.ipynb",
+  "git": {
+    "remote": "https://github.com/stonehenge0/AI-verstehen-Winteraka-2024-25.git",
+    "commit": "2bb1bd12d111f526361b1c25d6f7aba412b8d55c"
+  },
+  "email": "wuschelschulz8@gmail.com",
+  "root": "c:\\Users\\wusch\\working_directory\\AI-verstehen-Winteraka-2024-25",
+  "host": "Julians_Laptop",
+  "executable": "c:\\Users\\wusch\\working_directory\\AI-verstehen-Winteraka-2024-25\\venv\\Scripts\\python.exe"
+}

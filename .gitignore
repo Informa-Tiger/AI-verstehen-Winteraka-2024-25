@@ -3,3 +3,4 @@ data
 .env
 .oldenv
 __pycache__
+wandb
