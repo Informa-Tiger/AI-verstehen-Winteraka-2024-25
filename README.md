@@ -19,3 +19,7 @@ Schedule Hälfte 1:
 
 - [Interactive Walkthrough](https://bbycroft.net/llm)
 
+## CNN explanation text
+
+- [Convolutional Neural Networks (CNNs / ConvNets)]([https://bbycroft.net/llm](https://cs231n.github.io/convolutional-networks)
+
