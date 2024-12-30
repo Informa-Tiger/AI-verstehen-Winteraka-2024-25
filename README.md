@@ -21,5 +21,5 @@ Schedule Hälfte 1:
 
 ## CNN explanation text
 
-- [Convolutional Neural Networks (CNNs / ConvNets)]([https://cs231n.github.io/convolutional-networks])
+- [Convolutional Neural Networks (CNNs / ConvNets)](https://cs231n.github.io/convolutional-networks)
 
