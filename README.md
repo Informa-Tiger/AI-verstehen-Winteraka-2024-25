@@ -1,5 +1,5 @@
 # AI-verstehen-Winteraka-2024-25
-Feedback Tag 3: https://docs.google.com/forms/d/e/1FAIpQLSeqW7vYfAKv2Y0DGvkJRE8hCCkY3FCNFzdDsBg_7mitJ4bf_g/viewform?usp=sharing
+Feedback Tag 3: https://docs.google.com/forms/d/1DnI-MBO1csNYZuQnbl1Ei0JHz063Ln9u47bNO4fbkAk/edit
 
 Schedule Hälfte 1:
 ![image](https://github.com/user-attachments/assets/c3806bba-053f-4f33-8883-3ab4a20ed82f)
