@@ -1,5 +1,5 @@
 # AI-verstehen-Winteraka-2024-25
-Feedback gesamter Kurs: https://docs.google.com/forms/d/1DnI-MBO1csNYZuQnbl1Ei0JHz063Ln9u47bNO4fbkAk/edit
+Feedback gesamter Kurs:https://forms.gle/LzAjMpMuxB5cacy28
 
 Schedule Hälfte 1:
 ![image](https://github.com/user-attachments/assets/c3806bba-053f-4f33-8883-3ab4a20ed82f)
