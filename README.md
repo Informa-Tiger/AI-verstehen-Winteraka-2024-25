@@ -15,6 +15,7 @@ Schedule Hälfte 2:
 ## Artikel
 
 - [The animated transformer](https://prvnsmpth.github.io/animated-transformer/)
+- [CNN explainer](https://cs231n.github.io/convolutional-networks/)
 
 ## Interactive Walkthrough eines Transformers
 
