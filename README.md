@@ -21,3 +21,6 @@ Schedule Hälfte 2:
 
 - [Interactive Walkthrough](https://bbycroft.net/llm)
 
+
+## Constitutional AI (Anthropic)
+https://www.anthropic.com/news/claudes-constitution
